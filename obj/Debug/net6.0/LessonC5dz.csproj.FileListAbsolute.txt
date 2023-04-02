@@ -1,0 +1,15 @@
+D:\GIT\LessonC5dz\bin\Debug\net6.0\LessonC5dz.exe
+D:\GIT\LessonC5dz\bin\Debug\net6.0\LessonC5dz.deps.json
+D:\GIT\LessonC5dz\bin\Debug\net6.0\LessonC5dz.runtimeconfig.json
+D:\GIT\LessonC5dz\bin\Debug\net6.0\LessonC5dz.dll
+D:\GIT\LessonC5dz\bin\Debug\net6.0\LessonC5dz.pdb
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.csproj.AssemblyReference.cache
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.AssemblyInfoInputs.cache
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.AssemblyInfo.cs
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.csproj.CoreCompileInputs.cache
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.dll
+D:\GIT\LessonC5dz\obj\Debug\net6.0\refint\LessonC5dz.dll
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.pdb
+D:\GIT\LessonC5dz\obj\Debug\net6.0\LessonC5dz.genruntimeconfig.cache
+D:\GIT\LessonC5dz\obj\Debug\net6.0\ref\LessonC5dz.dll
